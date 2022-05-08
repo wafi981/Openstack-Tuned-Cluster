@@ -51,5 +51,5 @@ make dev-deploy k8s
 
 ```
 
-Note: If the anyone of the 2 make commands give an error then just add sudo before running the command.
+Note: If anyone of the 2 make commands give an error then just add sudo before running the command.
 
