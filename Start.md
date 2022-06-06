@@ -17,7 +17,7 @@ git clone https://opendev.org/openstack/openstack-helm.git
 
 ```
 
-## 3.) Copy the following command in the /etc/hosts file
+## 3.) Copy the following command in the /etc/sysctl.conf file
 
 ```
 net.bridge.bridge-nf-call-iptables = 1
